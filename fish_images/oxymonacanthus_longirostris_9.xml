@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>oxymonacanthus_longirostris_9.jpg</filename>
+	<path>D:\bm_img\fish_images\oxymonacanthus_longirostris_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>33</ymin>
+			<xmax>628</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>ophthalmolepis_lineolatus_1.jpg</filename>
+	<path>D:\bm_img\fish_images\ophthalmolepis_lineolatus_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>61</ymin>
+			<xmax>540</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

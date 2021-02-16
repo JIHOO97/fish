@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>pervagor_nigrolineatus_2.jpg</filename>
+	<path>D:\bm_img\fish_images\pervagor_nigrolineatus_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>42</ymin>
+			<xmax>509</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

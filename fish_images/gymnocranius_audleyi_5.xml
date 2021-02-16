@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>gymnocranius_audleyi_5.jpg</filename>
+	<path>D:\bm_img\fish_images\gymnocranius_audleyi_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>10</ymin>
+			<xmax>381</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

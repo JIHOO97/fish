@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>pseudanthias_lori_2.jpg</filename>
+	<path>D:\bm_img\fish_images\pseudanthias_lori_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>26</ymin>
+			<xmax>546</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

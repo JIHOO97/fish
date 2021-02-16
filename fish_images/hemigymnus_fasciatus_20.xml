@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>hemigymnus_fasciatus_20.jpg</filename>
+	<path>D:\bm_img\fish_images\hemigymnus_fasciatus_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>345</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>25</ymin>
+			<xmax>616</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

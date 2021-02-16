@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>meuschenia_galii_3.jpg</filename>
+	<path>D:\bm_img\fish_images\meuschenia_galii_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>12</ymin>
+			<xmax>572</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

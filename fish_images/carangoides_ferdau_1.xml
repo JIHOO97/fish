@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>carangoides_ferdau_1.jpg</filename>
+	<path>D:\bm_img\fish_images\carangoides_ferdau_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>14</ymin>
+			<xmax>556</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

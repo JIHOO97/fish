@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>plectropomus_leopardus_6.jpg</filename>
+	<path>D:\bm_img\fish_images\plectropomus_leopardus_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>113</ymin>
+			<xmax>483</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

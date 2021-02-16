@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>scolopsis_lineata_4.jpg</filename>
+	<path>D:\bm_img\fish_images\scolopsis_lineata_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>16</ymin>
+			<xmax>606</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

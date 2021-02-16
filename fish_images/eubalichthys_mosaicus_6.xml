@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>eubalichthys_mosaicus_6.jpg</filename>
+	<path>D:\bm_img\fish_images\eubalichthys_mosaicus_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>12</ymin>
+			<xmax>650</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

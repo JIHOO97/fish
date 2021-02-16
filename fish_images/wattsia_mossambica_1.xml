@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>wattsia_mossambica_1.jpg</filename>
+	<path>D:\bm_img\fish_images\wattsia_mossambica_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>18</ymin>
+			<xmax>600</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

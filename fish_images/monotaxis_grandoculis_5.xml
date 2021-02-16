@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>monotaxis_grandoculis_5.jpg</filename>
+	<path>D:\bm_img\fish_images\monotaxis_grandoculis_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>72</ymin>
+			<xmax>444</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>thalassoma_trilobatum_3.jpg</filename>
+	<path>D:\bm_img\fish_images\thalassoma_trilobatum_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>154</ymin>
+			<xmax>569</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

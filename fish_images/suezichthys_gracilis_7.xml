@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>suezichthys_gracilis_7.jpg</filename>
+	<path>D:\bm_img\fish_images\suezichthys_gracilis_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>26</ymin>
+			<xmax>611</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

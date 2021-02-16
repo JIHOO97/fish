@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>carcharhinus_sorrah_4.jpg</filename>
+	<path>D:\bm_img\fish_images\carcharhinus_sorrah_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>79</ymin>
+			<xmax>604</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

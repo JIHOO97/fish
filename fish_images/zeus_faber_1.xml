@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>zeus_faber_1.jpg</filename>
+	<path>D:\bm_img\fish_images\zeus_faber_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>34</ymin>
+			<xmax>592</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

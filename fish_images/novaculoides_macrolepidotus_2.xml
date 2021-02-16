@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>novaculoides_macrolepidotus_2.jpg</filename>
+	<path>D:\bm_img\fish_images\novaculoides_macrolepidotus_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>36</ymin>
+			<xmax>602</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

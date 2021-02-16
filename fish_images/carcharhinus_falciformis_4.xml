@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>carcharhinus_falciformis_4.jpg</filename>
+	<path>D:\bm_img\fish_images\carcharhinus_falciformis_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>17</ymin>
+			<xmax>563</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>oxycheilinus_celebicus_2.jpg</filename>
+	<path>D:\bm_img\fish_images\oxycheilinus_celebicus_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>11</ymin>
+			<xmax>560</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

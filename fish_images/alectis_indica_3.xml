@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>alectis_indica_3.jpg</filename>
+	<path>D:\bm_img\fish_images\alectis_indica_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>559</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

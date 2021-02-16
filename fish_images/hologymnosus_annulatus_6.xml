@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>hologymnosus_annulatus_6.jpg</filename>
+	<path>D:\bm_img\fish_images\hologymnosus_annulatus_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>134</ymin>
+			<xmax>618</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>nemadactylus_douglasii_3.jpg</filename>
+	<path>D:\bm_img\fish_images\nemadactylus_douglasii_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>16</ymin>
+			<xmax>475</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>epinephelus_merra_1.jpg</filename>
+	<path>D:\bm_img\fish_images\epinephelus_merra_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>18</ymin>
+			<xmax>436</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

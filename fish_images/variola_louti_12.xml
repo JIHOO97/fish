@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>variola_louti_12.jpg</filename>
+	<path>D:\bm_img\fish_images\variola_louti_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>643</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>96</ymin>
+			<xmax>640</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

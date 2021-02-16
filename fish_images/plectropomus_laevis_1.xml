@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>plectropomus_laevis_1.jpg</filename>
+	<path>D:\bm_img\fish_images\plectropomus_laevis_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>21</ymin>
+			<xmax>387</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

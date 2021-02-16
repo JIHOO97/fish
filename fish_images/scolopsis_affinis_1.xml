@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>scolopsis_affinis_1.jpg</filename>
+	<path>D:\bm_img\fish_images\scolopsis_affinis_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>23</ymin>
+			<xmax>598</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

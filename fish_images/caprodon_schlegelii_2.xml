@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>caprodon_schlegelii_2.jpg</filename>
+	<path>D:\bm_img\fish_images\caprodon_schlegelii_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>19</ymin>
+			<xmax>620</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

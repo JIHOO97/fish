@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>halichoeres_nigrescens_3.jpg</filename>
+	<path>D:\bm_img\fish_images\halichoeres_nigrescens_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>11</ymin>
+			<xmax>381</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

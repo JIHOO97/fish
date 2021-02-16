@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>lniistius_aneitensis_11.jpg</filename>
+	<path>D:\bm_img\fish_images\lniistius_aneitensis_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>26</ymin>
+			<xmax>601</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

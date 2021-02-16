@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>PQV7DP~S_1.jpg</filename>
+	<path>D:\bm_img\fish_images\PQV7DP~S_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>23</ymin>
+			<xmax>592</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

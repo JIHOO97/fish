@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>cirrhilabrus_exquisitus_1.jpg</filename>
+	<path>D:\bm_img\fish_images\cirrhilabrus_exquisitus_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>16</ymin>
+			<xmax>608</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

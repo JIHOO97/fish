@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>lutjanus_monostigma_15.jpg</filename>
+	<path>D:\bm_img\fish_images\lutjanus_monostigma_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>19</ymin>
+			<xmax>600</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

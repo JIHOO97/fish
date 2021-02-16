@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>P1ROZC~Z_17.jpg</filename>
+	<path>D:\bm_img\fish_images\P1ROZC~Z_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>29</ymin>
+			<xmax>616</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

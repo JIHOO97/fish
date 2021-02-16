@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>halichoeres_marginatus_14.jpg</filename>
+	<path>D:\bm_img\fish_images\halichoeres_marginatus_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>423</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>63</ymin>
+			<xmax>601</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

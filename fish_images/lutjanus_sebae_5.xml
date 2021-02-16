@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>lutjanus_sebae_5.jpg</filename>
+	<path>D:\bm_img\fish_images\lutjanus_sebae_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>24</ymin>
+			<xmax>608</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

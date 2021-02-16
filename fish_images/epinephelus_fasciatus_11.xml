@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>epinephelus_fasciatus_11.jpg</filename>
+	<path>D:\bm_img\fish_images\epinephelus_fasciatus_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>104</ymin>
+			<xmax>614</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

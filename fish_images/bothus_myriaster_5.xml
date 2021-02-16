@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>bothus_myriaster_5.jpg</filename>
+	<path>D:\bm_img\fish_images\bothus_myriaster_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>399</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>44</ymin>
+			<xmax>585</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

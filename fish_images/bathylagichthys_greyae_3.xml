@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>bathylagichthys_greyae_3.jpg</filename>
+	<path>D:\bm_img\fish_images\bathylagichthys_greyae_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>44</ymin>
+			<xmax>630</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

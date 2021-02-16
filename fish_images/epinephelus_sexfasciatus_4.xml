@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>epinephelus_sexfasciatus_4.jpg</filename>
+	<path>D:\bm_img\fish_images\epinephelus_sexfasciatus_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>84</ymin>
+			<xmax>569</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

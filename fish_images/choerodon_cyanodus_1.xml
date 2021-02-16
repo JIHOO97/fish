@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>choerodon_cyanodus_1.jpg</filename>
+	<path>D:\bm_img\fish_images\choerodon_cyanodus_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>11</ymin>
+			<xmax>382</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

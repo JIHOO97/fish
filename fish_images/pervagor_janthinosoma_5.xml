@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>pervagor_janthinosoma_5.jpg</filename>
+	<path>D:\bm_img\fish_images\pervagor_janthinosoma_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>24</ymin>
+			<xmax>597</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

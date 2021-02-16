@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>choerodon_jordani_2.jpg</filename>
+	<path>D:\bm_img\fish_images\choerodon_jordani_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>14</ymin>
+			<xmax>607</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

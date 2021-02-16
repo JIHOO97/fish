@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>caranx_melampygus_22.jpg</filename>
+	<path>D:\bm_img\fish_images\caranx_melampygus_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>133</ymin>
+			<xmax>619</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

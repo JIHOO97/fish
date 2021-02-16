@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>carcharhinus_galapagensis_5.jpg</filename>
+	<path>D:\bm_img\fish_images\carcharhinus_galapagensis_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>23</ymin>
+			<xmax>559</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>carangoides_caeruleopinnatus_1.jpg</filename>
+	<path>D:\bm_img\fish_images\carangoides_caeruleopinnatus_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>5</ymin>
+			<xmax>561</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

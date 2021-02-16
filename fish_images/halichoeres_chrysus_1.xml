@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>halichoeres_chrysus_1.jpg</filename>
+	<path>D:\bm_img\fish_images\halichoeres_chrysus_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>87</ymin>
+			<xmax>585</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

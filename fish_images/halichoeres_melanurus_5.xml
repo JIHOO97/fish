@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>halichoeres_melanurus_5.jpg</filename>
+	<path>D:\bm_img\fish_images\halichoeres_melanurus_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>88</ymin>
+			<xmax>589</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

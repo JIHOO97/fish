@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tag_img</folder>
+	<filename>20201224_9.jpg</filename>
+	<path>D:\bm_img\tag_img\20201224_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>1068</ymin>
+			<xmax>2290</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+</annotation>

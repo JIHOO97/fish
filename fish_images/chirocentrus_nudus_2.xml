@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>chirocentrus_nudus_2.jpg</filename>
+	<path>D:\bm_img\fish_images\chirocentrus_nudus_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>41</ymin>
+			<xmax>634</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

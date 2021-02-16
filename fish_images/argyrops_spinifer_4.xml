@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>argyrops_spinifer_4.jpg</filename>
+	<path>D:\bm_img\fish_images\argyrops_spinifer_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>2</ymin>
+			<xmax>559</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

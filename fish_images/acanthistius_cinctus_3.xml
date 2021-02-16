@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>acanthistius_cinctus_3.jpg</filename>
+	<path>D:\bm_img\fish_images\acanthistius_cinctus_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>12</ymin>
+			<xmax>387</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>meuschenia_freycineti_9.jpg</filename>
+	<path>D:\bm_img\fish_images\meuschenia_freycineti_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>116</ymin>
+			<xmax>491</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>sillago_sihama_12.jpg</filename>
+	<path>D:\bm_img\fish_images\sillago_sihama_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>38</ymin>
+			<xmax>580</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>nibea_soldado_2.jpg</filename>
+	<path>D:\bm_img\fish_images\nibea_soldado_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>9</ymin>
+			<xmax>560</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

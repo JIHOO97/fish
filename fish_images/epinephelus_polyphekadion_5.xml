@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>epinephelus_polyphekadion_5.jpg</filename>
+	<path>D:\bm_img\fish_images\epinephelus_polyphekadion_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>41</ymin>
+			<xmax>469</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

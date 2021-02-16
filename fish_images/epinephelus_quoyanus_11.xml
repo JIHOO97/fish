@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>epinephelus_quoyanus_11.jpg</filename>
+	<path>D:\bm_img\fish_images\epinephelus_quoyanus_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>21</ymin>
+			<xmax>626</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

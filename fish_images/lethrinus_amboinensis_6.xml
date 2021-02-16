@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>lethrinus_amboinensis_6.jpg</filename>
+	<path>D:\bm_img\fish_images\lethrinus_amboinensis_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>35</ymin>
+			<xmax>611</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>brachaluteres_jacksonianus_7.jpg</filename>
+	<path>D:\bm_img\fish_images\brachaluteres_jacksonianus_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>76</ymin>
+			<xmax>432</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

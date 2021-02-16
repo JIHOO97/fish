@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>stethojulis_interrupta_7.jpg</filename>
+	<path>D:\bm_img\fish_images\stethojulis_interrupta_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>16</ymin>
+			<xmax>556</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

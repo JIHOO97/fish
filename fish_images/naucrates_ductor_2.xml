@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>naucrates_ductor_2.jpg</filename>
+	<path>D:\bm_img\fish_images\naucrates_ductor_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>10</ymin>
+			<xmax>563</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

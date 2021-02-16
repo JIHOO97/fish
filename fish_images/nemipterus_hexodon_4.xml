@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>nemipterus_hexodon_4.jpg</filename>
+	<path>D:\bm_img\fish_images\nemipterus_hexodon_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>16</ymin>
+			<xmax>556</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

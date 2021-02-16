@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>anampses_meleagrides_13.jpg</filename>
+	<path>D:\bm_img\fish_images\anampses_meleagrides_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>123</ymin>
+			<xmax>542</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

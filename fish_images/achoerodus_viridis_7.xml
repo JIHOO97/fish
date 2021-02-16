@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>achoerodus_viridis_7.jpg</filename>
+	<path>D:\bm_img\fish_images\achoerodus_viridis_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>123</ymin>
+			<xmax>565</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

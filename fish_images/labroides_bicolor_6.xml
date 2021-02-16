@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>labroides_bicolor_6.jpg</filename>
+	<path>D:\bm_img\fish_images\labroides_bicolor_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>57</ymin>
+			<xmax>612</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

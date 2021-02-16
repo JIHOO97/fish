@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_images</folder>
+	<filename>chirocentrus_dorab_2.jpg</filename>
+	<path>D:\bm_img\fish_images\chirocentrus_dorab_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>129</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>9</ymin>
+			<xmax>564</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>
